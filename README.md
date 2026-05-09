@@ -1,8 +1,13 @@
-#  Minecraft Mining Simulation (OOP Project)
+#  Minecraft Mining Simulation 
+
+##  Author
+**Name:** Meryem Khiari
+
+---
 
 ##  Project Description
 
-This project is a **Minecraft-inspired mining simulation system** developed in Python using **Object-Oriented Programming (OOP)** principles.
+This project is a **Minecraft-inspired mining simulation system** developed in Python using **Object-Oriented Programming (OOP)** SIMPLE principles.
 
 It simulates the interaction between a player, tools, and blocks in a dynamic environment where mining actions depend on tool efficiency, block resistance, enchantments, and player status effects.
 
@@ -96,21 +101,21 @@ The system demonstrates advanced OOP concepts such as inheritance, polymorphism,
 
 ---
 
-##  Project Structure
+## Project Structure
+
+
 minecraft-mining-simulator/
-├── .venv/      
+├── .venv/
 ├── main.py
-├── player/
-│   └── player.py
-├── blocks/
-│   └── blocks.py
-├── tools/
-│   └── tools.py
-└── inventory/
-    └── inventory.py
 └── requirements.txt
+
 
 ---
 
+## Notes
+
+- `.venv` is excluded from GitHub (virtual environment)
+- No external libraries required
+- Fully built with Python standard library
 
 
